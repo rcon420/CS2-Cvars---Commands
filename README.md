@@ -1,4 +1,4 @@
-# CS2-Cvars---Commands
+# CS2-Cvars-Commands
 Counter-Strike: 2 Cvars, Convars, Commands &amp; entity list
 
 
