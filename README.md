@@ -7,3 +7,4 @@ You can find at:
 CS2 Cvars - https://oof.lv/custom/?page=custom&id=cs2_cvars
 Commands - https://oof.lv/custom/?page=custom&id=cs2_commands
 Entity list - https://oof.lv/custom/?page=custom&id=csentity
+Other options - https://oof.lv/custom/
